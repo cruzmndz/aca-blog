@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post title here"
-date: October 24rd, 2016 20:00:00 -0600
+date: October 24th, 2016 20:00:00 -0600
 categories: coding
 ---
 
