@@ -5,4 +5,4 @@ date: 2016-10-31 09:47:00 -0600
 categories: coding
 ---
 
-## Something that I have found interesting: 
+## Some things that I have found interesting: 
