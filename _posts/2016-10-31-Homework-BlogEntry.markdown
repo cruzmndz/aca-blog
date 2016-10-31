@@ -7,7 +7,7 @@ categories: coding
 
 ## Something that I have found interesting: 
 
-<h4>Utilizing the Inspector for good and evil  >:] </h4>
+<h4>Utilizing the Inspector for good :) and evil  >:] </h4>
 
 The goods: Development
 
