@@ -15,4 +15,4 @@ I had known of the inspector for quite some time before beginning to learn how t
 
 The bads: Free Internet (stickin'-it to "The Man")
 
-This is something that we have learned in class: the fact that we can manipulate anyone's page in almost any fashion. Which can all be in good fun, but I have recently found myself bypassing some website's prerequisites-of-perusing their site <strong>(i.e. deleting pop-up banners (no thank you Pinterest))</strong> in order to gain access to its contents. Sometimes, I <em>almost</em> feel bad, but then I don't. 
+This is something that we have learned in class: the fact that we can manipulate anyone's page in almost any fashion. Which can all be in good fun, but I have recently found myself bypassing some website's prerequisites-of-perusing their site <strong>(i.e. deleting pop-up banners (no thank you Pinterest))</strong> in order to gain access to its contents. Sometimes, I <em>almost</em> feel bad, but then I don't. . . 
